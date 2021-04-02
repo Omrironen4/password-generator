@@ -1,2 +1,2 @@
 # password-generator-homework-3
-This homework assignment is asking to make a password generator
+This homework assignment's objective is to make a password generator
