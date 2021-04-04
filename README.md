@@ -3,6 +3,7 @@ This homework assignment's objective is to make a password generator.
 Using start up code of an html file and very little javascript startup code, I successfully made a password generator.
 The password can be chosen by different criteria such as length, capitalization, numeric, and special cases. 
 Hope you enjoy creating a password based on your personalized criteria!
+Link to the password generator site: https://omrironen4.github.io/password-generator-homework-3/
 <img width="1440" alt="Screen Shot 2021-04-03 at 10 17 45 PM" src="https://user-images.githubusercontent.com/72667204/113499449-fafb2600-94ca-11eb-9358-939597716fd1.png">
 
 <img width="1440" alt="Screen Shot 2021-04-03 at 10 17 48 PM" src="https://user-images.githubusercontent.com/72667204/113499455-ffbfda00-94ca-11eb-9957-b6fb6f1299cd.png">
