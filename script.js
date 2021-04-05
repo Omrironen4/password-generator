@@ -23,6 +23,8 @@ function generatePassword () {
         console.log(lower);
         console.log(number);
         console.log(special);
+        // this will clear the array from previous password generation attempts.
+        combinationCase = [];
         
         // var index = Math.floor(Math.random()*passwordAnswer)   
         
