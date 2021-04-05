@@ -79,7 +79,7 @@ function generatePassword () {
 function writePassword() {
   generatePassword();                                       // here we are calling the generatePasword function.
   var passwordText = document.querySelector("#password");    // This replaces the password area in the html and assigns it a new value
-  passwordText.value = combinationCase; // the passwordText value gets reassigned to equal the combinationCase array, so the password can be displayed nicely in the middle.
+  passwordText.value = combinationCase.join(('')); // the passwordText value gets reassigned to equal the combinationCase array, so the password can be displayed nicely in the middle.
 }
 
 generateBtn.addEventListener("click", writePassword); // this adds an event listener of click to the generateBtn. When the button is clicked, our writePassword function runs, and the entire password generator begins its process. 
